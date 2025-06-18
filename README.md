@@ -2,6 +2,7 @@
 
 - 🔍 Passionate about **Big Data**, Machine Learning, and all things data-driven.
 - 🎯 My goal: To confidently say, "I can play with any type of data." 🧠💾
+- 💼 10+ years in operations management, now pivoting to data science and analytics.
 - 🌱 Currently exploring:
   - Scalable data pipelines with **Apache Spark & Kafka**
   - Advanced **SQL optimization** and **NoSQL solutions**
